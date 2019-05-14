@@ -1,7 +1,7 @@
 use SIASE
 
-CREATE VIEW ver_contraseñas
-AS SELECT id, contraseña
+CREATE VIEW ver_contraseÃ±as
+AS SELECT id, contraseÃ±a
 FROM alumno
 
 CREATE VIEW ver_profesores
